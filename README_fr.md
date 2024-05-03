@@ -250,7 +250,7 @@ Comme pour de nombreux projets open source, les contributeurs doivent fournir un
 
 <p align="center">
  <a href="#projet">
-   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="max-width: 15%;">
+   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 15%; width:15%">
  </a> 
 </p>
 
