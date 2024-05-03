@@ -3,7 +3,7 @@
   <br>
   <h1>𝓔𝓭𝓰𝓪𝓻 𝓐𝓵𝓵𝓪𝓷 𝓑𝓸𝓽 𓄿</h1>
   <strong>The Gothic Messenger of WhatsApp</strong><br>
-  <strong>Nevermore</strong>
+  <strong>𝔑𝔢𝔳𝔢𝔯𝔪𝔬𝔯𝔢</strong>
 </div>
 <br>
 <p align="center">
