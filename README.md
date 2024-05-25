@@ -227,7 +227,7 @@ npm run code
 
 ## Contact
 
-Feel free to send a message to Edgar Allan Bot, just click [here](https://wa.me/6282295813842)
+Feel free to send a message to Edgar Allan Bot, just click [here](https://wa.me/31686384262)
 
 
 For more information.. contact me on [Whatsapp](https://wa.me/351927285125)
