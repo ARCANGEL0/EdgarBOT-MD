@@ -113,25 +113,48 @@ Les **Darkcoins** sont la monnaie virtuelle d'Edgar Allan Bot, utilisées pour i
 **Edgar**, possède divers outils dans différentes catégories, que ce soit en conversation privée ou en groupe. Tapez .info pour voir les types de menus et visualiser les outils disponibles.
 
 ```plain
-╭━━━━━━━━━⬣
-┃ 🕯️💀  𝒎𝒆𝒏𝒖𝒔
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ .menu  - TOUT_
-┃ .menu recherche  - RECHERCHES_
-┃ .menu outils  - OUTILS_
-┃ .menu jeux  - JEUX_
-┃ .menu dl  - TÉLÉCHARGEMENTS_
-┃ .menu convertisseur  - CONVERTISSEURS_
-┃ .menu média  - MÉDIAS_
-┃ .menu ia  - INTELLIGENCE ARTIFICIELLE_
-┃ .menu vote  - VOTES_
-┃ .menu dev  - DÉVELOPPEURS ET HACKING_
-┃ .menu gp  - GROUPE_ 『_ADMIN_』
-┃ .menu bot  - BOT_ 『_ADMIN_』
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ 𝓔𝓭𝓰𝓪𝓻 𝓐𝓵𝓵𝓪𝓷 𝓑𝓸𝓽 𓅊
-╰━━━━━━━━━━━━━━━━━━⬣
+╭─┅──┅❖  ♱︎  ❖─┅─┅  
+|    *CENTRE DE MENUS*  
+╰─┅---─┅❖  ⸸  ❖─┅┅  
+| *.menu all*  
+| † menu complet  
+| *.menu ia*  
+| † créations, éditions et IA  
+| *.menu dl*  
+| † tous types de téléchargements  
+| *.menu util*  
+| † outils et utilitaires  
+| *.menu dev*  
+| † hacking et développeurs  
+| *.menu loja*  
+| † Boutique du Chat Noir  
+| *.menu jogos*  
+| † défis et jeux  
+| *.menu audios*  
+| † effets audio et modificateurs  
+| *.menu midia*  
+| † mèmes, filtres et bien plus  
+| *.menu busca*  
+| † recherches et requêtes générales  
+| *.menu cassino*  
+| † Casino du Corbeau  
+| *.menu diversoes*  
+| † jeux et divertissements  
+| *.menu ferramentas*  
+| † outils du bot  
 
+╭─┅──┅❖  ︎♱  ❖─┅─┅  
+|       *ADMINISTRATION*  
+╰─-┅─--┅❖  ⸸  ❖─┅┅  
+| *.listas*  
+| † contrôle historique des membres  
+| *.menu bot*  
+| † commandes exclusives de Poe  
+| *.menu adm*  
+| † informations sur le groupe  
+| *.menu funcoes*  
+| † fonctions pour l'automatisation de groupes  
+*┅─────┅❖ ⸸ ❖─┅─────┅*
 ```
 
 Pour communiquer avec Edgar dans un groupe, il suffit de l'invoquer par son nom Edgae, Bot, ou Allan... et il répondra à votre appel.
@@ -250,7 +273,7 @@ Comme pour de nombreux projets open source, les contributeurs doivent fournir un
 
 <p align="center">
  <a href="#projet">
-   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 15%; width:15%">
+   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 5%; width:5%">
  </a> 
 </p>
 
