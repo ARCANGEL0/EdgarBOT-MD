@@ -110,24 +110,48 @@ Edgar Allan Bot users are rewarded with **experience points** for each interacti
 **Edgar** has various tools in distinct categories, in a private chat or in a group. Type **.info** to view the types of menus and visualize the tools.
 
 ```plain
-╭━━━━━━━━━⬣
-┃ 🕯️💀  𝒎𝒆𝒏𝒖𝒔
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ .menu  - ALL_
-┃ .menu search  - SEARCH_
-┃ .menu tools  - TOOLS_
-┃ .menu games  - GAMES_
-┃ .menu dl  - DOWNLOADS_
-┃ .menu converter  - CONVERTERS_
-┃ .menu media  - MEDIA_
-┃ .menu ai  - ARTIFICIAL INTELLIGENCE_
-┃ .menu vote  - VOTES_
-┃ .menu dev  - DEVS AND HACKING_
-┃ .menu gp  - GROUP_ 『_ADMIN_』
-┃ .menu bot  - BOT_ 『_ADMIN_』
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ 𝓔𝓭𝓰𝓪𝓻 𝓐𝓵𝓵𝓪𝓷 𝓑𝓸𝓽 𓅊
-╰━━━━━━━━━━━━━━━━━━⬣
+╭─┅──┅❖  ♱︎  ❖─┅─┅  
+|    *MENU CENTER*  
+╰─┅---─┅❖  ⸸  ❖─┅┅  
+| *.menu all*  
+| † complete menu  
+| *.menu ia*  
+| † creations, edits, and AI  
+| *.menu dl*  
+| † all kinds of downloads  
+| *.menu util*  
+| † tools and utilities  
+| *.menu dev*  
+| † Tools for hacking and developers  
+| *.menu loja*  
+| † The Black Cat store  
+| *.menu jogos*  
+| † challenges and games  
+| *.menu audios*  
+| † audio effects and modifiers  
+| *.menu midia*  
+| † memes, filters, and much more  
+| *.menu busca*  
+| † general searches and queries  
+| *.menu cassino*  
+| † O Corvo's Casino  
+| *.menu diversoes*  
+| † fun and entertainment  
+| *.menu ferramentas*  
+| † bot's tools  
+
+╭─┅──┅❖  ︎♱  ❖─┅─┅  
+|       *ADMINISTRAÇÃO*  
+╰─-┅─--┅❖  ⸸  ❖─┅┅  
+| *.listas*  
+| † members control  
+| *.menu bot*  
+| † exclusive commands for Poe  
+| *.menu adm*  
+| † group information and tools for admin  
+| *.menu funcoes*  
+| † functions for group automation  
+*┅─────┅❖ ⸸ ❖─┅─────┅*
 ```
 To communicate with Edgar in a group, simply invoke his name Edgar, Bot, or Allan... and he will come to your call.
 
@@ -252,7 +276,7 @@ Like many open-source projects, contributors are required to provide a Contribut
 
 <p align="center">
  <a href="#project">
-   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 15%; width:15%">
+   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 5%; width:5%">
  </a> 
 </p>
 
